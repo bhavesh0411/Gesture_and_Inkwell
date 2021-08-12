@@ -1,4 +1,4 @@
-# Gestures detector & Inkwell (sorta_learning_seies - Learning 5)
+# Gestures detector & Inkwell (sorta_learning_series - Learning 5)
 
 A project based on learning differnt concept of flutter.
 
